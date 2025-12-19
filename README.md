@@ -23,12 +23,6 @@ Soy desarrollador y profesor de Informática. Me encanta participar en proyectos
 - 💼 Abierto a nuevas oportunidades y proyectos interesantes.  
 - ⚡ Fun fact: 
 
-## 📈 Mis estadísticas en GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mikeldalmauc&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeldalmauc&layout=compact&theme=radical)
-
----
-
 ## 📫 Cómo contactarme  
 - 📧 Email: [mikeldalmauc@gmail.com](mailto:mikeldalmauc@gmail.com)  
 - 🌐 LinkedIn: [mkldalmau](www.linkedin.com/in/mkldalmau)  
